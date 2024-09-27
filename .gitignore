@@ -14,3 +14,4 @@ nohup.out
 pyvenv.cfg
 _*.gxml
 _*.py
+data/
