@@ -6,10 +6,10 @@ build-backend = "setuptools.build_meta"
 name = "HiLoop"
 version = "0.0.1"
 description = "Toolbox for exploring high-feedback motifs in gene regulatory networks."
-dynamic = ["dependencies"]
+# dynamic = ["dependencies"]
 
-[tool.setuptools.dynamic]
-dependencies = {file = ["requirements.txt"]}
+# [tool.setuptools.dynamic]
+# dependencies = {file = ["requirements.txt"]}
 
 [tool.distutils.bdist_wheel]
 universal = true
