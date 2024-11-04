@@ -15,3 +15,7 @@ pyvenv.cfg
 _*.gxml
 _*.py
 data/
+venv/
+venv_old/
+test_venv/
+.DS_Store
